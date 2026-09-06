@@ -1,4 +1,4 @@
-using HarmonyLib;
+/*using HarmonyLib;
 
 namespace TownOfUs.Patches;
 
@@ -17,4 +17,4 @@ public static class StabilityPatches
 
         return true;
     }
-}
+}*/
